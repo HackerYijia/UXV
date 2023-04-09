@@ -1,0 +1,12 @@
+# The location of the hub.
+bungeecord: false
+hubcommand: true
+hubmessage: '&7&lServer&5>> &9You have been teleported to the hub!'
+tponjoin: true
+joinmessage: '&7&lServer&5>> &9Welcome!'
+update-checker: true
+hub:
+  x: -44.0
+  y: 111.0
+  z: 110.0
+  world: MiniWorld

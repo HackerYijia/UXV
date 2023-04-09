@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.196.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1680812162158
+  login: 1680812057824
+money: '0'
+last-account-name: SIr_poops_alot
+lastlocation:
+  world: 33d3bf71-1813-44a2-8b11-721fa716c621
+  world-name: world
+  x: 172.5
+  y: 64.0
+  z: 232.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 28296606-f608-4f0e-b716-ee643cfd068e
+  world-name: OneBlock
+  x: 1.6387888283197483
+  y: 192.99068823112523
+  z: -0.34492420294166404
+  yaw: 139.05001831054688
+  pitch: 25.800003051757812

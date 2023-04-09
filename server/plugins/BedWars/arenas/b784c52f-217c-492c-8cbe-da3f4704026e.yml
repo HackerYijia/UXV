@@ -1,0 +1,116 @@
+name: Amazon
+pauseCountdown: 60
+gameTime: 3600
+world: BW-Amazon
+pos1: 127.74552050977792;94.24227411193051;93.6291122478124;142.80006;28.949995
+pos2: -94.5;7.7985487187244225;-130.5;-25.349955;43.049995
+specSpawn: -29.54615929483653;82.63409356750842;-30.39524322301692;7.200165;90.0
+lobbySpawn: 0.5093492877023287;118.0;0.49782780814038907;90.75015;90.0
+lobbySpawnWorld: BW-Amazon
+minPlayers: 2
+postGameWaiting: 3
+teams:
+  NoxShadow_YT:
+    isNewColor: false
+    color: GRAY
+    maxPlayers: 10
+    bed: -33.0;65.0;-80.0;0.0;0.0
+    spawn: -32.71860455732963;65.5625;-79.49698652110924;181.9502;90.0
+  Azak25:
+    isNewColor: false
+    color: WHITE
+    maxPlayers: 10
+    bed: -80.0;65.0;-33.0;0.0;0.0
+    spawn: -80.5889860982945;65.5625;-32.42424792185763;265.05017;90.0
+spawners:
+- maxSpawnedResources: -1
+  hologramEnabled: true
+  location: -33.69999998807907;64.5;-99.69999998807907;0.0;0.0
+  customName: null
+  startLevel: 1.0
+  team: null
+  type: gold
+- maxSpawnedResources: -1
+  hologramEnabled: true
+  location: -32.63056245745635;64.5;-99.69999998807907;0.0;0.0
+  customName: null
+  startLevel: 1.0
+  team: null
+  type: iron
+- maxSpawnedResources: -1
+  hologramEnabled: true
+  location: -31.558999849715562;64.5;-99.67694222898196;0.0;0.0
+  customName: null
+  startLevel: 1.0
+  team: null
+  type: bronze
+- maxSpawnedResources: -1
+  hologramEnabled: true
+  location: -93.30000001192093;65.0;-27.30000001192094;0.0;0.0
+  customName: null
+  startLevel: 1.0
+  team: null
+  type: bronze
+- maxSpawnedResources: -1
+  hologramEnabled: true
+  location: -94.19211578095107;65.0;-27.30000001192094;0.0;0.0
+  customName: null
+  startLevel: 1.0
+  team: null
+  type: iron
+- maxSpawnedResources: -1
+  hologramEnabled: true
+  location: -93.36435577808757;65.0;-28.636701147311452;0.0;0.0
+  customName: null
+  startLevel: 1.0
+  team: null
+  type: gold
+stores:
+- isBaby: 'false'
+  loc: -37.341735990350756;65.0;-87.69999998807907;182.85013;90.0
+  parent: 'false'
+  shop: null
+  name: Villager_shop
+  skin: null
+  type: VILLAGER
+- isBaby: 'false'
+  loc: -88.69999998807907;65.0;-29.300000011920933;339.15015;90.0
+  parent: 'false'
+  shop: null
+  name: Villager_shop
+  skin: null
+  type: VILLAGER
+constant:
+  compass-enabled: inherit
+  add-wool-to-inventory-on-join: inherit
+  in-lobby-colored-leather-by-team: inherit
+  allow-crafting: inherit
+  join-randomly-after-lobby-timeout: inherit
+  join-randomly-on-lobby-join: inherit
+  keep-inventory-on-death: inherit
+  prevent-killing-villagers: inherit
+  player-drops: inherit
+  friendlyfire: inherit
+  lobbybossbar: inherit
+  bossbar: inherit
+  lobbyscoreboard: inherit
+  scoreboard: inherit
+  prevent-spawning-mobs: inherit
+  spawner-holograms: inherit
+  spawner-disable-merge: inherit
+  game-start-items: inherit
+  player-respawn-items: inherit
+  spawner-holograms-countdown: inherit
+  damage-when-player-is-not-in-arena: inherit
+  remove-unused-target-blocks: inherit
+  allow-block-falling: inherit
+  holo-above-bed: inherit
+  allow-spectator-join: inherit
+  anchor-auto-fill: inherit
+  anchor-decreasing: inherit
+  cake-target-block-eating: inherit
+  target-block-explosions: inherit
+arenaTime: WORLD
+arenaWeather: default
+lobbyBossBarColor: default
+gameBossBarColor: default

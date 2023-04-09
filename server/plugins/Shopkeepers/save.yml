@@ -1,0 +1,42 @@
+'1':
+  uniqueId: a0e75393-59c9-4bde-b075-c97c099aa87a
+  name: Wood For Food
+  world: MiniWorld
+  x: -47
+  y: 111
+  z: 107
+  type: admin
+  object:
+    type: villager
+    uuid: ee372e3c-085d-4c70-8949-b15faffc5cf8
+    prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOD
+        damage: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BREAD
+        amount: 4
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        damage: 8
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6[Daddy]
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOD
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BREAD
+        amount: 3

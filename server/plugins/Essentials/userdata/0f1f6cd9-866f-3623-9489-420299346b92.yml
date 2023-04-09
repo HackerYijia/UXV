@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.196.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1680822292660
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1680810523397
+  login: 1680821923594
+money: '0'
+last-account-name: edgar
+lastlocation:
+  world: 265825c4-0f98-45a2-8381-2bb8c18c6950
+  world-name: MiniWorld
+  x: -78.62356728211692
+  y: -129.01544854203829
+  z: 124.69999998807907
+  yaw: 246.75018310546875
+  pitch: 34.79999542236328
+logoutlocation:
+  world: 265825c4-0f98-45a2-8381-2bb8c18c6950
+  world-name: MiniWorld
+  x: -48.59540640177234
+  y: -53.51531824714856
+  z: 137.12371866319538
+  yaw: 67.95000457763672
+  pitch: 27.300003051757812
+nickname: §cedgar

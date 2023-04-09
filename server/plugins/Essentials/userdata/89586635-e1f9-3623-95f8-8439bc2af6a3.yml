@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.196.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1681042188757
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1681043353439
+  login: 1681041837927
+money: '25.0'
+last-account-name: KrashedMC
+lastlocation:
+  world: 33d3bf71-1813-44a2-8b11-721fa716c621
+  world-name: world
+  x: 159.21846860666324
+  y: 62.0
+  z: 269.4932711171245
+  yaw: 129.1500701904297
+  pitch: 14.699993133544922
+logoutlocation:
+  world: 33d3bf71-1813-44a2-8b11-721fa716c621
+  world-name: world
+  x: 233.0915510172892
+  y: 65.0
+  z: 311.46281960358147
+  yaw: -3.6000003814697266
+  pitch: 12.000000953674316

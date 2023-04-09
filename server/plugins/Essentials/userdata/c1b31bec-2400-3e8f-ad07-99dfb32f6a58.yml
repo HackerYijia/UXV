@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: true
+muted: false
+jailed: false
+ip-address: 172.31.196.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1680994044815
+  login: 1680996848473
+money: '0'
+last-account-name: AwerismyFriend
+lastlocation:
+  world: bf1fa44b-4a81-4849-bdee-481443054124
+  world-name: AwerismyFriend
+  x: 36.699999988079085
+  y: 72.0
+  z: 145.73979853833285
+  yaw: -178.95001220703125
+  pitch: 39.30000305175781
+logoutlocation:
+  world: 265825c4-0f98-45a2-8381-2bb8c18c6950
+  world-name: MiniWorld
+  x: -43.3772784540845
+  y: 112.0
+  z: 97.1832951701928
+  yaw: -270.60003662109375
+  pitch: 15.900001525878906

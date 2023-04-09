@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.196.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1681065188955
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1681065178298
+  login: 1681065180823
+money: '0'
+last-account-name: DylenGaming_PVP
+lastlocation:
+  world: 265825c4-0f98-45a2-8381-2bb8c18c6950
+  world-name: MiniWorld
+  x: -44.0
+  y: 111.0
+  z: 110.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 33d3bf71-1813-44a2-8b11-721fa716c621
+  world-name: world
+  x: 89.69999998807907
+  y: 38.0
+  z: 329.69999998807907
+  yaw: -40.26749801635742
+  pitch: 18.4404354095459
+homes:
+  home:
+    world: 33d3bf71-1813-44a2-8b11-721fa716c621
+    world-name: world
+    x: 89.68937093816243
+    y: 19.0
+    z: 330.796435371873
+    yaw: -112.9632568359375
+    pitch: 25.428688049316406

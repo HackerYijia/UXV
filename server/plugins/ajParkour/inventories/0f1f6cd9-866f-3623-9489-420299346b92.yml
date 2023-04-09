@@ -1,0 +1,55 @@
+inventory:
+  armor:
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BOOTS
+    damage: 50
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_LEGGINGS
+    damage: 50
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_CHESTPLATE
+    damage: 50
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_HELMET
+    damage: 50
+  content:
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BOOTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_HELMET
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_CHESTPLATE
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null

@@ -1,0 +1,52 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.196.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: true
+timestamps:
+  lastteleport: 1681063752793
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1681063780758
+  login: 1681063701595
+  kits:
+    tools: 1681042792178
+money: '45.0'
+last-account-name: NoxShadow_YT
+logoutlocation:
+  world: 33d3bf71-1813-44a2-8b11-721fa716c621
+  world-name: world
+  x: 79.55242276537547
+  y: 12.0
+  z: 282.99894237641007
+  yaw: -209.6593780517578
+  pitch: 73.34341430664062
+lastlocation:
+  world: 265825c4-0f98-45a2-8381-2bb8c18c6950
+  world-name: MiniWorld
+  x: -44.08181816703421
+  y: 111.54406585026082
+  z: 113.27362174172848
+  yaw: -1.5000001192092896
+  pitch: 49.499996185302734
+nickname: §6NoxShadow_YT
+unlimited:
+- WOOL
+homes:
+  islandob:
+    world: 28296606-f608-4f0e-b716-ee643cfd068e
+    world-name: OneBlock
+    x: 203.7412871553936
+    y: 191.0
+    z: 0.4663176780508753
+    yaw: 92.85000610351562
+    pitch: 84.44999694824219

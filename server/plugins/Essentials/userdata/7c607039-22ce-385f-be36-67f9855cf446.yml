@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.196.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1680738114768
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1680738612956
+  login: 1680738354756
+money: '0'
+last-account-name: GuestExampleForR
+lastlocation:
+  world: 265825c4-0f98-45a2-8381-2bb8c18c6950
+  world-name: MiniWorld
+  x: -41.30000001192093
+  y: 111.0
+  z: 103.9364319483656
+  yaw: -206.70001220703125
+  pitch: 42.149993896484375
+logoutlocation:
+  world: 265825c4-0f98-45a2-8381-2bb8c18c6950
+  world-name: MiniWorld
+  x: -44.01184610658927
+  y: 111.0
+  z: 112.15789980684127
+  yaw: 0.6000000834465027
+  pitch: 27.899993896484375

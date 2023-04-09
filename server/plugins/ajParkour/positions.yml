@@ -1,0 +1,13 @@
+#  This is where the plugin stores all the areas and portals.
+#  Be careful when editing this file, it could cause some areas or portals to fail to load!
+areas:
+  Starter:
+    difficulty: EASY
+    max: 2147483647
+    pos1: MiniWorld,-29,117,123,179.10002,46.049995
+    pos2: MiniWorld,-73,125,89,242.85002,30.149994
+    fallpos: MiniWorld,-44,111,110,0.0,0.0
+portals:
+  Hi:
+    area: Starter
+    loc: MiniWorld,-37,111,112,91.05001,90.0

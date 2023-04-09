@@ -1,0 +1,59 @@
+inventory:
+  armor:
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+    damage: -1
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+    damage: -1
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+    damage: -1
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+    damage: -1
+    amount: 0
+  content:
+  - ==: org.bukkit.inventory.ItemStack
+    type: STONE_SWORD
+  - ==: org.bukkit.inventory.ItemStack
+    type: STONE_SPADE
+  - ==: org.bukkit.inventory.ItemStack
+    type: STONE_PICKAXE
+  - ==: org.bukkit.inventory.ItemStack
+    type: STONE_AXE
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null

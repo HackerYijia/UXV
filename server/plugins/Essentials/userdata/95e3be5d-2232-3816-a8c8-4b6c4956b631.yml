@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.196.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1680816198491
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1680817016090
+  login: 1680816985178
+money: '0'
+last-account-name: NoxShadow_YTW
+lastlocation:
+  world: 265825c4-0f98-45a2-8381-2bb8c18c6950
+  world-name: MiniWorld
+  x: -46.76164315138609
+  y: 112.0
+  z: 121.8624602820864
+  yaw: 81.45000457763672
+  pitch: 8.100000381469727
+logoutlocation:
+  world: 265825c4-0f98-45a2-8381-2bb8c18c6950
+  world-name: MiniWorld
+  x: -42.834385259969885
+  y: 111.0
+  z: 114.39497114174642
+  yaw: 175.80001831054688
+  pitch: 15.45000171661377

@@ -1,0 +1,110 @@
+groups:
+  Member:
+    build: true
+    permissions:
+    - essentials.help
+    - essentials.rules
+    - essentials.motd
+    - essentials.afk
+    - essentials.back
+    - essentials.back.ondeath
+    - essentials.depth
+    - essentials.delhome
+    - essentials.help
+    - essentials.home
+    - essentials.kit
+    - essentials.kit.tools
+    - essentials.list
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.me
+    - essentials.motd
+    - essentials.msg
+    - essentials.ping
+    - essentials.r
+    - essentials.rules
+    - essentials.seen
+    - essentials.sethome
+    - essentials.signs.use.disposal
+    - essentials.spawn
+    - essentials.suicide
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpahere
+    - essentials.tpdeny
+    options:
+      prefix: '&2[&aMember&2]&7 '
+      default: true
+  VIP:
+    inheritance:
+    - Guest
+    - Member
+    build: true
+    permissions:
+    - essentials.help
+    - essentials.rules
+    - essentials.motd
+    options:
+      prefix: '&6[&eVIP&6]&7 '
+      default: false
+  Mod:
+    inheritance:
+    - VIP
+    - Member
+    - Guest
+    build: true
+    permissions:
+    - essentials.sethome.multiple.staff
+    - essentials.helpop
+    - essentials.home.others
+    - essentials.nick
+    - essentials.warp
+    - essentials.warp.list
+    options:
+      prefix: '&1[&9Mod&1]&f '
+      default: false
+  Admin:
+    inheritance:
+    - Mod
+    - VIP
+    - Member
+    - Guest
+    build: true
+    permissions:
+    - essentials.gamemode
+    - essentials.give
+    - essentials.god
+    options:
+      prefix: '&9[&bAdmin&9]&f '
+      default: false
+  Owner:
+    build: true
+    permissions:
+    - '*'
+    options:
+      prefix: '&6[&4Owner&6]&f '
+      default: false
+  default:
+    permissions: []
+schema-version: 1
+users:
+  ee02c126-e5ba-3018-b0a4-50aafaec474b:
+    permissions:
+    - '*'
+    options:
+      name: NoxShadow_YT
+  0f1f6cd9-866f-3623-9489-420299346b92:
+    permissions: []
+    options:
+      name: edgar
+  dab9ea72-d6b0-3756-b54a-ed17e78d1b0a:
+    permissions:
+    - '*'
+    - gadgetsmenu.menuselector
+    options:
+      name: Check_FN
+  4d7d406d-f8a5-34e6-82cc-1a76e054637f:
+    permissions:
+    - '*'
+    options:
+      name: NX_YT

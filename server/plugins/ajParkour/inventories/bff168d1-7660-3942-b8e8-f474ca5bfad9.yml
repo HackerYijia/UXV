@@ -1,0 +1,84 @@
+inventory:
+  armor:
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BOOTS
+    damage: 52
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_LEGGINGS
+    damage: 52
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_CHESTPLATE
+    damage: 52
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_HELMET
+    damage: 52
+  content:
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: NETHER_STAR
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §aGadgetsMenu
+      lore:
+      - '§7Mystery Dust: §b0'
+      - ''
+      - §7Enjoy fun cosmetic features!
+      - §7More stuff will be added over time,
+      - §7make sure to check our update forums!
+      - §7Thanks you for supporting our server.
+      ItemFlags: !!set
+        HIDE_PLACED_ON: null
+        HIDE_ENCHANTS: null
+        HIDE_UNBREAKABLE: null
+        HIDE_POTION_EFFECTS: null
+        HIDE_ATTRIBUTES: null
+        HIDE_DESTROYS: null
+      internal: H4sIAAAAAAAAAONiYOBi4HZPTElPLSn2Tc0r5WDgBVHxwak5qckl+UUMLCVFpakMDADi74YlKQAAAA==
+  - ==: org.bukkit.inventory.ItemStack
+    type: LOG
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §9Kawarimi No Jutsu Gadget
+      ItemFlags: !!set
+        HIDE_PLACED_ON: null
+        HIDE_ENCHANTS: null
+        HIDE_UNBREAKABLE: null
+        HIDE_POTION_EFFECTS: null
+        HIDE_ATTRIBUTES: null
+        HIDE_DESTROYS: null
+      internal: H4sIAAAAAAAAAONiYOBi4HZPTElPLSn2Tc0r5WDgcE4sSU3PL6pkYIOIczBwOucX56aWZCYXM7CUFJWmMjAAAGQdYrY4AAAA
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null

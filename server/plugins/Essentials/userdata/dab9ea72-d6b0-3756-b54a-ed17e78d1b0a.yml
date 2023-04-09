@@ -1,0 +1,42 @@
+teleportenabled: true
+teleportauto: false
+godmode: true
+muted: false
+jailed: true
+ip-address: 172.31.196.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1680817355697
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1681005736477
+  login: 1681005729970
+money: '0'
+last-account-name: Check_FN
+lastlocation:
+  world: 33d3bf71-1813-44a2-8b11-721fa716c621
+  world-name: world
+  x: 192.30000001192093
+  y: 62.0
+  z: 281.53194634416025
+  yaw: -0.44982320070266724
+  pitch: 90.0
+logoutlocation:
+  world: 33d3bf71-1813-44a2-8b11-721fa716c621
+  world-name: world
+  x: 192.30000001192093
+  y: 61.0
+  z: 281.53194634416025
+  yaw: 1.650177001953125
+  pitch: 89.0999984741211
+jail: a
+unlimited:
+- DIRT
+nickname: Check_FN
